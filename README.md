@@ -1,4 +1,4 @@
-# SC1015_MiniProject_FDDC_Team6_TanTanTer
+# SC1015_MiniProject_FDDC_Team6_TanTanTer (Credit Card Fraud Prediction)
 ## About
 This is a Mini-Project for SC1015 course (Introduction to Data Science and Artificial Intelligence) which focuses on Credit card Fraud from a dataset in Kaggle
 
