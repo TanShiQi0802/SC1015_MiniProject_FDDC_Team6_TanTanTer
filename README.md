@@ -47,9 +47,11 @@ Our project aim and motivation is to enhance credit card fraud detection by deve
 - Explored variables like gender and category and the general relation to 'is_fraud'
 
 **Feature Selection**
+
 We select Category of Products (category), Time of Transaction (time_category), Transaction Amount (amt), Gender (gender) and Age (age) as these variables can significantly influence an individual's susceptibility to fraudulent transactions
 
 **Feature Scaling**
+
 We tested three scaling methods on the dataset, robust scaling, min-max scaling, and standard scaling. We choose standard scaling to scale our dataset.
 
 ### 4. Development of Fraud Detection Mechanism
@@ -81,4 +83,5 @@ We built and tested the accuracy, TPR, FNR, TNR, FPR, and AUC value for Random F
 - Raise Awareness
 
 ### 10. Conclusion
+
 Further research and innovation is needed to stay ahead of emerging and sophisticated credit card frauds  and ensure the integrity and security of financial systems
